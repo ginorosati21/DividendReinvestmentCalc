@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "DividendReinvestCalc"
+    }
+  },
+  "defaultProject": "DividendReinvestCalc",
+  "cli": {
+    "analytics": "3aa34936-7e4a-4266-bc57-3309ecb8b774"
+  }
 }
